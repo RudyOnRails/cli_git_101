@@ -1,0 +1,33 @@
+week 1
+command line / terminal
+  basic commands 
+    ls
+    cd
+    mkdir
+    pwd
+    tab completion (autocomplete)
+    .
+    ..
+    open (path lime/mate)
+
+text editor
+  lime .
+  mate .
+
+git
+  install git
+  clone
+  merge
+  branch
+  add
+  commit
+  pull (fetch/merge)
+
+
+  week 1
+    environment setup party
+  week 2
+
+
+  week 4 & 7
+    terminal/git/texteditor
